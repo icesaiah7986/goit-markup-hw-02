@@ -14,14 +14,27 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
+  color: var(--iris);
 
 }
 
 .web-logo {
-  font-family: "Raleway";
   color: var(--navy-blue);
 
 }
+
+.menu-nav-link {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+  text-decoration: none;
+}
+
+.menu-nav-link:hover {
+  color: #404bbf;
+}
+
 
 body {
   font-family: 'Roboto';
