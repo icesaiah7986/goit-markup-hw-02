@@ -1,4 +1,11 @@
 body {
   font-family: "Roboto";
   color: #434455;
+  background-color: #FFFFFF;
+}
+
+:root {
+  --iris: #4D5AE5;
+  --navy-blue: #2E2F42;
+
 }
