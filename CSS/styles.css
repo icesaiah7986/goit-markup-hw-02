@@ -6,7 +6,7 @@
 
 }
 
-.web-logo-link {
+.web-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -18,7 +18,7 @@
 
 }
 
-.web-logo {
+.text-logo {
   color: var(--navy-blue);
 
 }
@@ -37,7 +37,7 @@
 
 
 body {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
   color: var(--slate);
   background-color: var(--white);
 }
