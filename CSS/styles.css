@@ -8,3 +8,18 @@ body {
   --iris: #4D5AE5;
   --navy-blue: #2E2F42;
 }
+
+.web-logo-link {
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+
+}
+
+.web-logo {
+  color: #2E2F42;
+}
