@@ -10,7 +10,6 @@
   --cloud: #f4f4fd;
 }
 
-
 .weblogo {
   color: var(--iris);
   font-family: "Raleway", sans-serif;
@@ -50,6 +49,24 @@
 }
 
 .nav-link .link:hover {
+  color: #404bbf;
+}
+
+address {
+  font-style: normal;
+}
+
+.nav-contact .link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--slate);
+}
+
+.nav-contact .link:hover {
+  color: #404bbf;
+}
+
+.nav-contact .link:focus {
   color: #404bbf;
 }
 
