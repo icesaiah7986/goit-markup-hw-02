@@ -1,3 +1,15 @@
+:root {
+  --iris: #4D5AE5;
+  --ocean: #404bbf;  
+  --navy-blue: #2E2F42;
+  --white: #FFFFFF;
+  --slate: #434455;
+  --green: #31D0AA;
+  --light-slate: #838f99;
+  --cornflower: #e7e9fc;
+  --cloud: #f4f4fd;
+}
+
 .web-logo-link {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -9,14 +21,10 @@
   color: var(--iris);
 }
 
+.web-logo {
+  color: var(--navy-blue);
+  }
 
-:root {
-  --iris: #4D5AE5;
-  --navy-blue: #2E2F42;
-  --white: #FFFFFF;
-  --slate: #434455;
-
-}
 
 body {
   font-family: "Roboto", sans-serif;
@@ -24,11 +32,7 @@ body {
   background-color: var(--white);
 }
 
-.web-logo {
-  color: var(--navy-blue);
-  
 
-}
 
 .text-logo {
   color: var(--navy-blue);
