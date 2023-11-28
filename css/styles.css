@@ -81,6 +81,10 @@ body {
   background-color: var(--navy-blue);
 }
 
+.textlogo-footer {
+  color: #f4f4fd;
+}
+
 .goal {
   line-height: 1.5;
   color: var(--cloud);
