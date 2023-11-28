@@ -118,16 +118,13 @@ body {
   cursor: pointer;
 }
 
-.list-buttons {
-  list-style: none;
-}
 
-.list-buttons .button {
+.list .button {
   color: var(--iris);
   background-color: var(--cloud);
 }
 
-.list-buttons .button:hover, .button:focus {
+.list .button:hover, .button:focus {
   color: #FFFFFF;
 }
 
