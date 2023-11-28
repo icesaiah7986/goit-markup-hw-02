@@ -75,3 +75,7 @@ body {
   color: #434455;
   background-color: var(--white);
 }
+
+.footer {
+  background-color: var(--navy-blue);
+}
