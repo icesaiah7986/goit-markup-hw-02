@@ -150,6 +150,10 @@ body {
   background-color: #f4f4fd;
 }
 
+.members {
+  background-color: #FFFFFF;
+}
+
 
 .footer {
   background-color: var(--navy-blue);
