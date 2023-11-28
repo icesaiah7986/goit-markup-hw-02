@@ -47,7 +47,7 @@ body {
 
 }
 
-.navbar-pages {
+.navbar .pages {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -55,7 +55,7 @@ body {
   text-decoration: none;
 }
 
-.navbar-pages:hover {
+.navbar .pages:hover {
   color: #404bbf;
 }
 
