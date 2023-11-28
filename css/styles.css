@@ -79,6 +79,14 @@ body {
   letter-spacing: 0.02em;
 }
 
+.header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: var(--navy-blue);
+}
+
 .hero-image {
   background-color: var(--navy-blue);
 }
@@ -102,13 +110,13 @@ body {
   cursor: pointer;
 }
 
-.hero-image .button:hover {
+.hero-image .button:hover, .button:focus {
   background-color: #404bbf;
 }
 
-.hero-image .button:focus {
+/* .hero-image .button:focus {
   background-color: #404bbf;
-}
+} */
 
 .features-header {
   font-weight: 500;
@@ -119,10 +127,6 @@ body {
 
 }
 
-/* .features-text {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-} */
 
 
 
