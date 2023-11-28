@@ -23,6 +23,7 @@
 
 .textlogo {
   color: var(--navy-blue);
+
 }
 
 .link {
@@ -78,4 +79,10 @@ body {
 
 .footer {
   background-color: var(--navy-blue);
+}
+
+.goal {
+  line-height: 1.5;
+  color: var(--cloud);
+  letter-spacing: 0.02em;
 }
