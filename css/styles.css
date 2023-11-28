@@ -88,7 +88,6 @@ body {
   color: var(--navy-blue);
 }
 
-
 .hero-image {
   background-color: var(--navy-blue);
 }
@@ -119,6 +118,18 @@ body {
   cursor: pointer;
 }
 
+.list-buttons {
+  list-style: none;
+}
+
+.list-buttons .button {
+  color: var(--iris);
+  background-color: var(--cloud);
+}
+
+.list-buttons .button:hover, .button:focus {
+  color: #FFFFFF;
+}
 
 .header-three {
   font-weight: 500;
