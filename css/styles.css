@@ -125,7 +125,10 @@ body {
 }
 
 .list .button:hover, .button:focus {
-  background-color:  #FFFFFF;
+  color: #FFFFFF;
+  background-color: #404bbf;
+
+
 }
 
 .header-three {
@@ -162,3 +165,6 @@ body {
 
 
 
+.header-one {
+  visibility: hidden;
+}
