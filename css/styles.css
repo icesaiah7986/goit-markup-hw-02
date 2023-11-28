@@ -75,6 +75,8 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: var(--white);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .hero-image {
@@ -117,7 +119,10 @@ body {
 
 }
 
-
+/* .features-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+} */
 
 
 
