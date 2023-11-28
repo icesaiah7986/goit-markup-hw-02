@@ -10,12 +10,6 @@
   --cloud: #f4f4fd;
 }
 
-body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: var(--white);
-}
-
 
 .weblogo {
   font-family: "Raleway", sans-serif;
@@ -33,6 +27,7 @@ body {
 
 .link {
   text-decoration: none;
+  color: var(--navy-blue);
 
 }
 
@@ -46,4 +41,10 @@ body {
 
 .nav-link:hover {
   color: #404bbf;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: var(--white);
 }
