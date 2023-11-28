@@ -77,6 +77,36 @@ body {
   background-color: var(--white);
 }
 
+.hero-image {
+  background-color: var(--navy-blue);
+}
+
+.hero-image .header {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
+
+.hero-image .button {
+  background-color: #4D5AE5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.hero-image .button:hover {
+  background-color: #404bbf;
+}
+
+.hero-image .button:focus {
+  background-color: #404bbf;
+}
+
 .footer {
   background-color: var(--navy-blue);
 }
