@@ -79,13 +79,21 @@ body {
   letter-spacing: 0.02em;
 }
 
-.header {
+/* .header-two {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.2;
+
+} */
+
+/* .header {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
   color: var(--navy-blue);
-}
+} */
 
 .hero-image {
   background-color: var(--navy-blue);
@@ -118,7 +126,16 @@ body {
   background-color: #404bbf;
 } */
 
-.features-header {
+/* .features-header {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+
+} */
+
+.header-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -127,7 +144,9 @@ body {
 
 }
 
-
+.team {
+  background-color: #f4f4fd;
+}
 
 
 .footer {
