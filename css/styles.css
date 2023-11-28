@@ -79,12 +79,13 @@ body {
   letter-spacing: 0.02em;
 }
 
-/* .header-two {
-  font-weight: 700;
+.header-two {
   font-size: 36px;
-  line-height: 1.2;
-
-} */
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: var(--navy-blue);
+}
 
 /* .header {
   font-size: 36px;
