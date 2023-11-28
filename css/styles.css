@@ -10,6 +10,10 @@
   --cloud: #f4f4fd;
 }
 
+.link {
+  text-decoration: none;
+}
+
 .web-logo-link {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -39,7 +43,7 @@ body {
 
 }
 
-.menu-nav-link {
+.navbar-pages {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -47,7 +51,7 @@ body {
   text-decoration: none;
 }
 
-.menu-nav-link:hover {
+.navbar-pages:hover {
   color: #404bbf;
 }
 
